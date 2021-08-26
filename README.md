@@ -1,8 +1,8 @@
-# Kompensationsaufgabe ALDA SS 2021
+# Kompensations- und Prüfungsaufgabe ALDA SS 2021
 
 ## Ablauf
 
-Bereiten Sie für das persönliche Abgabegespräch die im folgenden beschriebene Aufgabenstellung vor. Sie werden zu dem Source Code befragt und müssen auch Sprachkonzepte von C erklären sowie kleine Anpassungen am Code live vornehmen können. Auch der bereits im Repository vorhandene Source Code wird abgefragt.
+Bereiten Sie für das persönliche Abgabegespräch oder die komm. Prüfung die im folgenden beschriebene Aufgabenstellung vor. Sie werden zu dem Source Code befragt und müssen auch Sprachkonzepte von C erklären sowie kleine Anpassungen am Code live vornehmen können. Auch der bereits im Repository vorhandene Source Code wird abgefragt.
 
 ## Aufgabenstellung
 
