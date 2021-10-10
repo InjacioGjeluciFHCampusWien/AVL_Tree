@@ -17,6 +17,7 @@ typedef struct node_ {
     char *data;
     struct node_ *left;
     struct node_ *right;
+    int balance;
 } node;
 
 typedef struct binTree_ {
@@ -30,6 +31,7 @@ binTree *t_init(void);
 node *insertNode(node *, int, const char *);
 node *insert(binTree *, int, const char *);
 int treeDepth(node *);
+int getBalance(node *);
 
 // TODO: Rotationsprototypen
 
